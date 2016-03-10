@@ -2,7 +2,7 @@
   "name": "markdeep",
   "version": "0.9.0",
   "description": "Markdeep is a technology for writing plain text documents that will look good in any web browser. It supports diagrams, common styling conventions, and equations as extensions of Markdown syntax.",
-  "main": "0.09/markdeep.min.js",
+  "main": "markdeep.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

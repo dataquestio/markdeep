@@ -11,6 +11,8 @@
  All rights reserved.
  (BSD 3-clause license)
 */
+if (markdeepOptions !== undefined) window.markdeepOptions = markdeepOptions
+
 ! function() {
     "use strict";
 
